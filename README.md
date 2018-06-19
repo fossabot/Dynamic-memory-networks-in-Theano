@@ -1,4 +1,6 @@
 # Dynamic memory networks in Theano
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FDynamic-memory-networks-in-Theano.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FDynamic-memory-networks-in-Theano?ref=badge_shield)
+
 The aim of this repository is to implement Dynamic memory networks 
 as described in the [paper by Kumar et al.](http://arxiv.org/abs/1506.07285)
 and to experiment with its various extensions.
@@ -78,3 +80,6 @@ docker run --name dmn_1 -it --rm -p 5000:5000 yerevann/dmn
 ## License
 [The MIT License (MIT)](./LICENSE)
 Copyright (c) 2016 YerevaNN
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FDynamic-memory-networks-in-Theano.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FDynamic-memory-networks-in-Theano?ref=badge_large)
